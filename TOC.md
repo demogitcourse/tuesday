@@ -2,3 +2,4 @@
 
 - Recap
 - Push and Pull
+- github email
